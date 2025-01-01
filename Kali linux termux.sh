@@ -452,3 +452,10 @@ printf "${green}[+] nethunter -r          # To run NetHunter as root${reset}\n"
 #printf "${green}[+] nethunter -r kex <command> # Run command in NetHunter env as root${reset}\n"
 printf "${green}[+] nh                    # Shortcut for nethunter${reset}\n\n"
 
+echo have an issue  ? 
+
+echo create chroot named folder
+
+echo and move the directory kali-《your architecture 》
+
+echo in chroot named folder 
